@@ -1,7 +1,5 @@
 # Oefenen-R
 
-# Oefenen-R
-
 Dit is een oefenrepository voor het werken met R en GitHub.  
 In dit project wordt het gemiddelde berekend van de variabele `hour` uit het *Boston Crime*-bestand (`crime` dataset uit het R-pakket `ggmap`).
 
